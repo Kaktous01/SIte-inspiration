@@ -1,2 +1,2 @@
-# SIte-inspiration
+# Site-inspiration
 SIte exemple 
